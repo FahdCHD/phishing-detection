@@ -21,9 +21,6 @@
 - Features: 30 URL indicators
 - Classes: Phishing (-1) vs Legitimate (1)
 
-##  License
-
-MIT License
 
 ---
 
