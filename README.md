@@ -23,5 +23,3 @@
 
 
 ---
-
-**Last Updated:** September 2026
